@@ -1,5 +1,5 @@
 variable "project_name" {
-  default = "farid-tf"
+  default = "pavan-tf"
 }
 
 variable "ec2_key_name" {
