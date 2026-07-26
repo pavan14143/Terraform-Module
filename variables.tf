@@ -3,7 +3,7 @@ variable "project_name" {
 }
 
 variable "ec2_key_name" {
-  default = "farid"   # your EC2 key pair name
+  default = "pavan"   # your EC2 key pair name
 }
 
 
